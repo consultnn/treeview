@@ -6,7 +6,7 @@
  * Time: 10:16
  */
 
-namespace backend\behaviors;
+namespace consultnn\treeView;
 
 use yii\base\Behavior;
 
