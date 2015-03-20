@@ -1,0 +1,34 @@
+{
+	"name": "consultnn/yii2-icc-treeview",
+	"description": "Yii2 treeview extension",
+	"keywords": ["ConsultNN", "Yii2", "TreeView"],
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "ICC Ltd.",
+			"email": "tech@consultnn.ru",
+			"homepage": "http://consultnn.ru"
+		},
+		{
+			"name": "Artem Leksanov",
+			"email": "52lexanov@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"php": ">=5.4.0"
+	},
+	"require-dev": {
+		"psr/log": "dev-master",
+		"phpunit/phpunit": "4.1.*",
+		"squizlabs/php_codesniffer": "1.*"
+	},
+	"autoload": {
+		"psr-4": {
+			"consultnn\\minify\\": "."
+		}
+	},
+	"support": {
+		"email": "tech@consultnn.ru"
+	}
+}
